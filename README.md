@@ -3,7 +3,7 @@
 http://nodered.org
 
 [![Build Status](https://travis-ci.org/node-red/node-red.svg)](https://travis-ci.org/node-red/node-red)
-[![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
+[![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/node-red.svg)](https://www.staging.guardrails.io)
 
 A visual tool for wiring the Internet of Things.
 
